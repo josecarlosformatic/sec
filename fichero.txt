@@ -1,3 +1,4 @@
 este era un fichero vacio.
 añado una segunda linea a este fichero.
+esta linea esta modificada en la rama sec.
 
